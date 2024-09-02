@@ -1,4 +1,4 @@
-from code_testing import functions as fun
+from example import functions as fun
 
 def test_frequency_zero():
     lamda = 0
